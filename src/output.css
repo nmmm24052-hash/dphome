@@ -739,6 +739,10 @@ video {
   margin: 10px;
 }
 
+.m-\[20px\] {
+  margin: 20px;
+}
+
 .mt-2 {
   margin-top: 0.5rem;
 }
@@ -998,6 +1002,14 @@ video {
 
 .w-\[100px\] {
   width: 100px;
+}
+
+.w-\[200px\] {
+  width: 200px;
+}
+
+.w-\[300px\] {
+  width: 300px;
 }
 
 .max-w-\[\] {
@@ -1556,6 +1568,10 @@ video {
 
 .gap-8 {
   gap: 2rem;
+}
+
+.gap-5 {
+  gap: 1.25rem;
 }
 
 .space-x-2 > :not([hidden]) ~ :not([hidden]) {
